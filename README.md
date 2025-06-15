@@ -22,7 +22,7 @@
 - SSH Brute Force Module
 
 ## 📂 Web Recon
-- Directory Buster Integration: Identify hidden endpoints on web servers
+- Directory Buster Integration: Identify hidden endpoints on an IP address
 
 ## 📡 IoT & Sharing Detection
 - IoT Device Profiler
