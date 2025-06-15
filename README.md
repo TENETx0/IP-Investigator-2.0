@@ -1,4 +1,4 @@
-# 🧠 Welcome to IP Investigator 2.0 Wiki
+# 🧠 Welcome to IP Investigator 2.0 
 
 **IP Investigator 2.0** is an advanced yet user-friendly tool designed for hackers, ethical security testers, and learners who want powerful scanning without the clutter.
 
