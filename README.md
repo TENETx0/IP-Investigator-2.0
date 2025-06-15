@@ -41,12 +41,7 @@
 1. Clone the Repository:
 ```bash
 git clone https://github.com/TENETx0/IP-Investigator.git
-and access the .msi/.exe file
-
-or
-
-You can directly Download and install the.msi/.exe file
----
+ ---
 
 ### 4. **How to Contribute**
 
