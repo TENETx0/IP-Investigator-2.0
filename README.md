@@ -41,35 +41,8 @@
 1. Clone the Repository:
 ```bash
 git clone https://github.com/TENETx0/IP-Investigator.git
+
+or 
+
+Download the .Msi/.exe file Directly from the repository 
  ---
-
-### 4. **How to Contribute**
-
-```markdown
-# 🤝 Contribute
-
-Want to improve the tool or fix a bug? Contributions are always welcome!
-
-## 🚀 How to Start
-1. Fork the repo
-2. Create a new feature branch
-3. Make your changes
-4. Submit a pull request
-
-## 🧩 Ideas to Contribute
-- Add more protocol analyzers (ex: LDAP, SNMP)
-- Export results in JSON/CSV
-- GUI Integration
-- Support for Linux
-
-# 🐛 Found a Bug or Have an Idea?
-
-We're open to improvements! You can:
-- [Open an Issue](https://github.com/TENETx0/IP-Investigator/issues)
-- Or message me directly on LinkedIn
-
-### 📝 What to Include in Bug Reports:
-- Screenshot or terminal output
-- Steps to reproduce
-- Your OS and .NET version
-
